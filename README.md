@@ -3,9 +3,14 @@ Laboratory Experiments for ECA60 High performance computing
 
 The High Performance Computing Laboratory course provides practical exposure to FPGA-based digital system design using RTL, Vivado IP Integrator, and Vivado HLS methodologies. The laboratory focuses on developing efficient digital circuits for signal processing, image processing, and AI-related applications using Verilog HDL and Xilinx Vivado tools.
 
-This course helps students understand the complete FPGA design flow including coding, simulation, synthesis, implementation, and verification of digital systems. The experiments cover clock generation, counters, filters, image thresholding, image intensity inversion, waveform generation, and AI-oriented RTL modules such as convolution and pooling layers.
+This course helps students understand the complete FPGA design flow including coding, simulation,  and verification of digital systems. The experiments cover clock generation, counters, filters, image thresholding, image intensity inversion, waveform generation, and AI-oriented RTL modules such as convolution and pooling layers.
 
 The laboratory also introduces students to different FPGA design approaches including RTL-based design, IP-based design, and High-Level Synthesis (HLS). Through these experiments, students gain hands-on experience in hardware-oriented computing techniques widely used in embedded systems, digital signal processing, image processing, and artificial intelligence applications.
+
+Software used:
+
+1. Xilinx Vivado (RTL design, Vivado HLS, IP based design)
+2. Jupyter notebook
 
 RTL Based Design
 1. Design of Clock Divider Circuit using RTL
